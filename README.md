@@ -1,3 +1,5 @@
+Author: @polyccon
+
 # Talk-error-handling
 
 I prepared a little talk to make the error handling workshop given on week 5 (node week 2), a little less terrifying for students. 
