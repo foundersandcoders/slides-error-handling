@@ -10,6 +10,6 @@ This is the one [error-handling-workshop](https://github.com/foundersandcoders/e
  * Clone this repo and cd into it
  * Run the command ```reveal-md```
  * A list of links will appear on a web page in your browser - the presentation is inside 000.md, all the other files are for backup, so click there!
- * Enjoy!
+ * Enjoy chatting some error handling!
  
  PS: Feel free to contact me for mentor notes.
