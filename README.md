@@ -2,9 +2,10 @@ Author: @polyccon
 
 # Talk-error-handling
 
-I prepared a little talk to make the error handling workshop given on week 5 (node week 2), a little less terrifying for students. 
+I prepared a little talk to make the error handling workshop given on week 5 (node week 2) at Founders and Coders, a little less terrifying for students.
 
 This is the one [error-handling-workshop](https://github.com/foundersandcoders/error-handling-workshop)
+As this workshop requires a fair amount of reading before getting to the actual exercise and start trying the 3 approaches, giving a little introduction of the contents helps out with timing as well.
 
 **Instructions**
  
